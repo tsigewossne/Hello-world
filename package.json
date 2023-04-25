@@ -1,0 +1,23 @@
+{
+  "name": "learning-at-microverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsigewossne/Learning-at-microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsigewossne/Learning-at-microverse/issues"
+  },
+  "homepage": "https://github.com/tsigewossne/Learning-at-microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.8"
+  }
+}
