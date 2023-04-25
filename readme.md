@@ -5,3 +5,4 @@ An html file that includes a header with text "Hello Microverse"
 # styles.css
 a stylesheet that linked to the html file in order to provide the special header a text color
 # linter files
+Files with .json extension are included to install linters and to check the html and css files
