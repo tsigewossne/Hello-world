@@ -52,7 +52,7 @@ follow the below steps to get started
 
 ### Setup
 
->clone the folder in your specified directory by "git clone + link" and make sure the file has be copied.
+>clone the folder in your specified directory by "git clone + link (git@github.com:tsigewossne/Hello-world.git)" and make sure the file has be copied.
 
 
 ### Install
