@@ -79,8 +79,8 @@ request for the code review
 👤 **Tsige Wossne**
 
 - GitHub: [@githubhandle](https://github.com/tsigewossne)
-- Twitter: [@twitterhandle]
-- LinkedIn: [LinkedIn]
+- Twitter: [@twitterhandle] @Tsigewo
+- LinkedIn: [LinkedIn](http://ca.linkedin.com/in/linkedintsigewossne)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
